@@ -1,5 +1,7 @@
 # 前端开发者指南（2017）
 
+> 本开源书 forked from [前端开发者指南（2017）](https://github.com/sqrthree/front-end-handbook-2017)，作者为 [sqrthree](https://github.com/sqrthree)，欢迎大家 star 原作者的 [repo](https://github.com/sqrthree/front-end-handbook-2017)，以便获得最新更新，谢谢！
+
 [![掘金翻译计划](https://rawgit.com/aleen42/badges/master/src/juejin_translation.svg)](https://github.com/xitu/gold-miner/)
 [![沪江Web前端团队](https://cdn.rawgit.com/Hujiang-FE/icons/fff32467/logo.svg)](https://github.com/hujiang-fe)
 
